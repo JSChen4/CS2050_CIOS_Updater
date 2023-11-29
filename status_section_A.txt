@@ -1,23 +1,22 @@
              CS 2050 CIOS Progress
              =====================
 
-1
-2
-3
-4
-Section A:
-27.96%
-78/279
-5
+                   Section A:
+                     27.96%
+                     78/279
 
-              Do your CIOS here:
-      ===>                           <===
-      ===> https://b.gatech.edu/cios <===
-      ===>                           <===
+
+
+
+
+                Do your CIOS here:
+        ===>                           <===
+        ===> https://b.gatech.edu/cios <===
+        ===>                           <===
 
 
 
 
 
 ------------------------------------------------------
-last updated: Wed Nov 29 00:04:10 EST 2023
+      last updated: Wed Nov 29 00:22:51 EST 2023
