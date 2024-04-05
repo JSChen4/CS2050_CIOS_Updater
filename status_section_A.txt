@@ -1,9 +1,9 @@
              CS 2050 CIOS Progress
              =====================
 
-                   Section A:
+                   Section C:
                      0.00%
-                     0/249
+                     0/112
 
 
 
@@ -19,4 +19,4 @@
 
 
 ------------------------------------------------------
-      last updated: Fri Apr  5 14:05:20 EDT 2024
+      last updated: Fri Apr  5 14:09:19 EDT 2024
