@@ -1,4 +1,4 @@
-# CS2050-Fall-2023
+# CS2050 CIOS Updates
 
 Click on status_section_[YOUR SECTION].txt for CIOS updates.
 
